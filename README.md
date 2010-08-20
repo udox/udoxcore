@@ -22,7 +22,7 @@ ModelAdmin base classes for the above.
 
 ### templatetags/
 
-Useful filters and templatetags (the querystring tag [borrowed from here](http://andre.liquidmm.com/blog/2009/apr/20/flexible-query-string-building-template-tag/) is particularly good.
+Useful filters and templatetags (the querystring tag [borrowed from here](http://andre.liquidmm.com/blog/2009/apr/20/flexible-query-string-building-template-tag/) is particularly good).
 
 ### utils/
 
